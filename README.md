@@ -6,7 +6,7 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 - **Languages:** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 - **AI/ML:** PyTorch, TensorFlow, OpenCV, HuggingFace, Model Quantization (QAT/PTQ)
@@ -15,7 +15,7 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 
 ---
 
-### 🏆 Competitive Programming & Research
+###  Competitive Programming & Research
 
 - **ICPC Regionalist:** Participated in Dhaka Regional 2024 & 2025.
 - **Problem Solving:** 500+ problems solved across Codeforces, LeetCode, and VJudge.
@@ -32,7 +32,7 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <p align="left">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=shuv001&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
@@ -41,14 +41,14 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 
 ---
 
-### 🧪 Featured Projects
+### Featured Projects
 
 - **[Rice Disease & Soil Health](https://github.com/shuv001/Capstone-Project-RiceDiseaseDetectionSoilHealthMonitoring):** Integrated ML + IoT system using EfficientNet and ESP32 sensors.
 - **[Skin Cancer Detection](https://github.com/shuv001/SkinCancerDetection):** CNN optimization via pruning and quantization (98.5% Accuracy).
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/shuv1729/](https://www.linkedin.com/in/shuv1729/)
 - **Portfolio:** 
 - **Email:** suvro1729@gmail.com
