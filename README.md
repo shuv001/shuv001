@@ -50,5 +50,5 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 
 ### 📫 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/shuv1729/](https://www.linkedin.com/in/shuv1729/)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Portfolio:** 
 - **Email:** suvro1729@gmail.com
