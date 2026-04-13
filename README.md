@@ -35,7 +35,7 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 ### 📊 GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shuv001&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=shuv001&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuv001&theme=radical" height="180" alt="Streak Stats" />
 </p>
 
