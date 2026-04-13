@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Suvro Kumar Das 👋 
 
-<!--
-**shuv001/shuv001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/LLM Engineer | Computer Vision Researcher | ICPC Regionalist '24 & '25
 
-Here are some ideas to get you started:
+I am an Undergraduate IoT and Robotics Engineering student at the University of Frontier Technology. My work sits at the intersection of **Deep Learning**, **Embedded Systems**, and **Competitive Programming**. I focus on model quantization (QAT/PTQ) for edge devices and AI applications in agriculture and healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- **AI/ML:** PyTorch, TensorFlow, OpenCV, HuggingFace, Model Quantization (QAT/PTQ)
+- **IoT & Robotics:** ESP32, Arduino, Raspberry Pi, ROS, PCB Design
+- **Tools:** Flutter, Flask, Git, Docker, LaTeX
+
+---
+
+### 🏆 Competitive Programming & Research
+
+- **ICPC Regionalist:** Participated in Dhaka Regional 2024 & 2025.
+- **Problem Solving:** 500+ problems solved across Codeforces, LeetCode, and VJudge.
+- **Focus:** Graph Theory, Dynamic Programming, and Computational Chemistry.
+
+<p align="left">
+  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_USERNAME&theme=dark" height="150" alt="Codeforces Stats" />
+  </a>
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://github-readme-leetcode-card.romitsagu.com/YOUR_USERNAME?theme=tokyonight" height="150" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shuv001&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuv001&theme=radical" height="180" alt="Streak Stats" />
+</p>
+
+---
+
+### 🧪 Featured Projects
+
+- **[Rice Disease & Soil Health](https://github.com/shuv001/Capstone-Project-RiceDiseaseDetectionSoilHealthMonitoring):** Integrated ML + IoT system using EfficientNet and ESP32 sensors.
+- **[Skin Cancer Detection](https://github.com/shuv001/SkinCancerDetection):** CNN optimization via pruning and quantization (98.5% Accuracy).
+- **[NothingOS](https://github.com/shuv001/NothingOs):** A custom kernel built with C# and Cosmos DevKit.
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/suvro-kumar-das](https://linkedin.com/in/suvro-kumar-das)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Email:** suvro.das@example.com
