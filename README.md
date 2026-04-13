@@ -2,7 +2,7 @@
 
 ### AI/LLM Engineer | Computer Vision Researcher | ICPC Regionalist '24 & '25
 
-I am an Undergraduate IoT and Robotics Engineering student at the University of Frontier Technology. My work sits at the intersection of **Deep Learning**, **Embedded Systems**, and **Competitive Programming**. I focus on model quantization (QAT/PTQ) for edge devices and AI applications in agriculture and healthcare.
+I am an Undergraduate IoT and Robotics Engineering student at the University of Frontier Technology,Bangladesh. My work sits at the intersection of **Deep Learning**, **Embedded Systems**, and **Competitive Programming**. I focus on model quantization (QAT/PTQ) for edge devices and AI applications in agriculture and healthcare.
 
 ---
 
@@ -22,10 +22,10 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 - **Focus:** Graph Theory, Dynamic Programming, and Computational Chemistry.
 
 <p align="left">
-  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+  <a href="https://codeforces.com/profile/the_borring_guy">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_USERNAME&theme=dark" height="150" alt="Codeforces Stats" />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="http://leetcode.com/u/the_boring_guy/">
     <img src="https://github-readme-leetcode-card.romitsagu.com/YOUR_USERNAME?theme=tokyonight" height="150" alt="LeetCode Stats" />
   </a>
 </p>
@@ -45,11 +45,10 @@ I am an Undergraduate IoT and Robotics Engineering student at the University of 
 
 - **[Rice Disease & Soil Health](https://github.com/shuv001/Capstone-Project-RiceDiseaseDetectionSoilHealthMonitoring):** Integrated ML + IoT system using EfficientNet and ESP32 sensors.
 - **[Skin Cancer Detection](https://github.com/shuv001/SkinCancerDetection):** CNN optimization via pruning and quantization (98.5% Accuracy).
-- **[NothingOS](https://github.com/shuv001/NothingOs):** A custom kernel built with C# and Cosmos DevKit.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/suvro-kumar-das](https://linkedin.com/in/suvro-kumar-das)
+- **LinkedIn:** [https://www.linkedin.com/in/shuv1729/](https://www.linkedin.com/in/shuv1729/)
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** suvro.das@example.com
+- **Email:** suvro1729@gmail.com
